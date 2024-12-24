@@ -18,7 +18,6 @@ const elevado2 = Math.pow(2, 3);     // Outra forma de potenciação
 const divisao2 = 3 / 2;
 const restoDaDivisao2 = 3 % 2;       // Resto da divisão
 const numeroNegativo = -3;
-const numeroNegativo3 = +3;
 
 // Exibição dos resultados
 console.log({ soma });
